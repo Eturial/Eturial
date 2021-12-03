@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&theme=synthwave&count_private=true) -->
-<a href="https://github.com/CoolboY61/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yh's github stats" /> </a>
-
+[Github Stats](https://github.com/CoolboY61/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&hide=html,javascript,css) -->
-<a href="https://github.com/Eturial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&theme=buefy&hide_border=true" /> </a>
+[Top Langs](https://github.com/Eturial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&theme=buefy&hide_border=true)
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eturial) -->
 
