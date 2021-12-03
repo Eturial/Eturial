@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Eturial/count.svg" />
 </p>
 
-### Public Key
+<!-- ### Public Key
 
-  - [OpenPGP](https://github.com/Eturial/Eturial/blob/master/pgp_public_key)
+  - [OpenPGP](https://github.com/Eturial/Eturial/blob/master/pgp_public_key) -->
 
 
 
