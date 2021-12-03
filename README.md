@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&hide=html,javascript,css)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eturial)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eturial) -->
 
 <p align="center"> 
   Visitor count<br>
