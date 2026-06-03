@@ -1,42 +1,20 @@
 ### Hi there 👋
 
-<!--
-Eturial/Eturial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&theme=buefy&hide_border=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&theme=buefy&hide_border=true"/>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&theme=synthwave&count_private=true) -->
+</td>
+</tr>
+</table>
 
-  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&hide=html,javascript,css) -->
-
-| <a href="https://github.com/Eturial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yh's github stats" /></a> | <a href="https://github.com/Eturial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eturial) -->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Eturial/count.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eturial&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
-<!-- ### Public Key
-
-  - [OpenPGP](https://github.com/Eturial/Eturial/blob/master/pgp_public_key) -->
-
-
-
-
-
