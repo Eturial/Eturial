@@ -1,11 +1,20 @@
 # Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&cache_seconds=86400)
+## About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&cache_seconds=86400)
+- 🔬 Knowledge Graph
+- 🤖 LLM
+- 📊 Visualization
+- 🎓 Researcher
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eturial)
+## Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eturial)
+![snake](https://raw.githubusercontent.com/Eturial/Eturial/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eturial)
+## Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Eturial&theme=flat)
+
+## Visitors
+
+![views](https://komarev.com/ghpvc/?username=Eturial)
