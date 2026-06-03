@@ -1,26 +1,11 @@
 # Hi there 👋
 
-<table>
-<tr>
-<td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&cache_seconds=86400)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&theme=default&include_all_commits=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&cache_seconds=86400)
 
-</td>
-<td>
+![GitHub Streak](https://streak-stats.demolab.com?user=Eturial)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eturial)
 
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eturial" />
-
-### Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=Eturial&label=Profile+Views&color=blue&style=flat" />
-
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eturial" />
+![Profile Views](https://komarev.com/ghpvc/?username=Eturial)
